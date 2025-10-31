@@ -18,7 +18,7 @@
 ![License](https://img.shields.io/badge/License-MIT-black)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Kaggle_&_Colab-blue)
-![Author](https://img.shields.io/badge/Author-Mago_Dados_(Rafael_Gallo)-red)
+![Author](https://img.shields.io/badge/Author(Rafael_Gallo)-red)
 
 <p align="center">
   <img src="https://github.com/RafaelGallo/deepseek-llm-prompt-engineering/blob/main/img/logo.png?raw=true" width="70%" alt="DeepSeek Sentiment Logo"/>
